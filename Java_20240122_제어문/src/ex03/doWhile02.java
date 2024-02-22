@@ -22,7 +22,6 @@ public class doWhile02 {
 				System.out.println("더 작은 수 입력!!");
 			else
 				System.out.println("더 큰 수 입력!!");
-			
 		}while(input != answer);
 		
 		System.out.println(count + "회" + input + "맞추었습니다.");
